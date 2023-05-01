@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Hathaway</h1>
-<h3 align="center">A university computer science student originally from Philadelphia greater area, but I go to the University of Pittsburgh</h3>
+<h3 align="center">A university computer science student originally from Philadelphia greater area, but now attending the University of Pittsburgh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-hathaway&label=Profile%20views&color=0e75b6&style=flat" alt="james-hathaway" /> </p>
 
