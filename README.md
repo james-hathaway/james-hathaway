@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-hathaway&label=Profile%20views&color=0e75b6&style=flat" alt="james-hathaway" /> </p>
 
-- 🔭 I’m currently working on **an app to generate 🤫**
+- 🔭 I’m currently working on **an app to generate ??🤫**
 
 - 🌱 I’m currently learning **Rust!**
 
