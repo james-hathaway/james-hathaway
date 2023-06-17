@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **two web applications to generate ??🤫**
 
-- 🌱 I’m currently learning **Rust!**
+- 🌱 I’m currently learning **Rust and Go!**
 
 - 👯 I’m looking to collaborate on **open source work**
 
